@@ -1,29 +1,4 @@
 # Mini Project
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>House Price Prediction Project</title>
-<style>
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-    margin: 40px;
-    background:#ffffff;
-    color:#000000;
-}
-h1,h2,h3{color:#2c3e50;}
-h1{text-align:center;}
-ul{margin-left:20px;}
-pre{
-    background:#f4f4f4;
-    padding:12px;
-    overflow-x:auto;
-}
-hr{margin:30px 0;}
-</style>
-</head>
-<body>
 
 <h1>House Price Prediction Project</h1>
 
